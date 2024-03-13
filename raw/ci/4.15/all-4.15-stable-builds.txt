@@ -1,0 +1,4 @@
+sys-powercloud-docker-local.artifactory.swg-devops.com/ocp-ppc64le/release-ppc64le:4.15.3  2024-03-12T09:21:28Z
+sys-powercloud-docker-local.artifactory.swg-devops.com/ocp-ppc64le/release-ppc64le:4.15.2  2024-03-08T10:56:13Z
+sys-powercloud-docker-local.artifactory.swg-devops.com/ocp-ppc64le/release-ppc64le:4.15.1  2024-03-07T13:11:30Z
+sys-powercloud-docker-local.artifactory.swg-devops.com/ocp-ppc64le/release-ppc64le:4.15.0  2024-02-26T07:19:51Z
