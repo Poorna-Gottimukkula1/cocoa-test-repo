@@ -6,7 +6,7 @@
   "build_number": "1",
   "commit_sha": "cc4e2108693bfd89e2315ce76c9069d60fe8d76f",
   "pipeline_run_id": "20240313-1",
-  "type": "image",
+  "type": "artifact",
   "sha256": "sha256:2fec6a72f30945578a6cac4990477fd7da645537144279f83fc018ff86bd5a8c",
   "signature": "sha256:2fec6a72f30945578a6cac4990477fd7da645537144279f83fc018ff86bd5a8c"
 }
