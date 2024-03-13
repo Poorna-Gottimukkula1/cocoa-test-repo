@@ -1,8 +1,0 @@
-docker-test.com/ocp-ppc64le/release-ppc64le:4.13.0-rc.8  2023-05-10T20:51:49Z
-docker-test.com/ocp-ppc64le/release-ppc64le:4.13.0-rc.7  2023-05-04T15:55:18Z
-docker-test.com/ocp-ppc64le/release-ppc64le:4.13.0-rc.6  2023-04-28T06:47:55Z
-docker-test.com/ocp-ppc64le/release-ppc64le:4.13.0-rc.5  2023-04-21T20:53:45Z
-docker-test.com/ocp-ppc64le/release-ppc64le:4.13.0-rc.4  2023-04-14T19:25:13Z
-docker-test.com/ocp-ppc64le/release-ppc64le:4.13.0-rc.3  2023-04-12T07:09:41Z
-docker-test.com/ocp-ppc64le/release-ppc64le:4.13.0-rc.2  2023-03-30T15:36:50Z
-docker-test.com/ocp-ppc64le/release-ppc64le:4.13.0-rc.0  2023-03-20T15:12:03Z
