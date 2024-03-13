@@ -1,1 +1,1 @@
-sys-powercloud-docker-local.artifactory.swg-devops.com/ocp-ppc64le/release-ppc64le:4.14.0-0.nightly-ppc64le-2024-03-13-015514
+docker-test.com/ocp-ppc64le/release-ppc64le:4.14.0-0.nightly-ppc64le-2024-03-13-015514
