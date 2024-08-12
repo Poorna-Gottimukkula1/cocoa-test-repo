@@ -1,3 +1,4 @@
+docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.14.0-0.nightly-ppc64le-2024-08-12-092520  2024-08-12T09:25:20Z
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.15.0-0.nightly-ppc64le-2024-08-12-080456  2024-08-12T08:04:56Z
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.16.0-0.nightly-ppc64le-2024-08-12-074351  2024-08-12T07:43:51Z
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.17.0-0.nightly-ppc64le-2024-08-12-073804  2024-08-12T07:38:04Z
@@ -364,7 +365,6 @@ docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/rel
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.16.0-0.nightly-ppc64le-2024-07-29-153804  2024-07-29T15:38:04Z
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.16.0-0.nightly-ppc64le-2024-07-29-133404  2024-07-29T13:34:04Z
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.16.0-0.nightly-ppc64le-2024-07-29-114142  2024-07-29T11:41:42Z
-docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.16.0-0.nightly-ppc64le-2024-07-29-092840  2024-07-29T09:28:40Z
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.13.46  2024-07-25T10:24:36Z
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.16.5  2024-07-25T09:50:04Z
 docker-na.artifactory.swg-devops.com/sys-powercloud-docker-local/ocp-ppc64le/release-ppc64le:4.15.24  2024-07-25T08:23:22Z
